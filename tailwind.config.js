@@ -2,12 +2,13 @@
 module.exports = {
   content: ["*"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily:{
+        Whitney:["Whitney"],
+        Ginto:["Ginto"],
+        ggSans:["ggSans"],
+      },
+    },
   },
   plugins: [],
-  fontFamily:{
-    Whitney:["Whitney"],
-    Ginto:["Ginto"],
-    ggSans:["ggSans"],
-  },
 }
