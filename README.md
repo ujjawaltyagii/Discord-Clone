@@ -1,5 +1,5 @@
 # Discord-Clone
-Created responsive Discord Website using Tailwind CSS and HTML.
+Created responsive Discord Website using Tailwind CSS, HTML and JavaScript.
 
 ## Set up
 1. Fork this repository.
